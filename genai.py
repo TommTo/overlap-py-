@@ -19,6 +19,7 @@ word_counter2 = 0
 word_counter3 = 0
 
 
+print("First we start by comparing each article to the first article:\n")
 
 #artikel 2 vergelijken met artikel 1
 for word in doc2words:
